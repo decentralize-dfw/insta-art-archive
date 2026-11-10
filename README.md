@@ -8,7 +8,7 @@ https://decentralize-dfw.github.io/insta.art/. Same `posts/...` paths as the
 
 - [capricorn-sisters](posts/milan/caprocorn-sister-war-plague-earthquake-footage/reel.mp4) (unchanged original)
 - [viperella](posts/milan/viperella-footage/reel.mp4) (unchanged original)
-- [board-game](posts/kopstal/7-fam-board-game-footage/reel.mp4) (canvas stabilized)
-- [sept-neuf](posts/kopstal/sept-neuf-footage/reel.mp4) (canvas stabilized)
+- [board-game](posts/kopstal/7-fam-board-game-footage/reel.mp4) (painting-content correction V2)
+- [sept-neuf](posts/kopstal/sept-neuf-footage/reel.mp4) (painting-content correction V2)
 
-[Processing report, checks and per-frame corner coordinates](processing/canvas-lock-2026-11-10/REPORT.md).
+[Processing report, checks and per-frame corner coordinates](processing/canvas-content-lock-v2/REPORT.md).

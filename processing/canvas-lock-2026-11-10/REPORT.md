@@ -1,3 +1,5 @@
+> **SUPERSEDED / rejected V1:** perimeter-only correction did not stabilize painting content. See [V2 content correction](../canvas-content-lock-v2/REPORT.md). This historical report and its hashes describe the rejected V1, not the current reel files.
+
 # Video upload and canvas lock
 
 Four requested files added as new footage posts. Existing archive reels are unchanged.

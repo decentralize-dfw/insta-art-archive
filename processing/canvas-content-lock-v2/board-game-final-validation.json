@@ -1,0 +1,19 @@
+{
+  "file": "BOARD-CONTENT-LOCK-V2.mp4",
+  "frames": 823,
+  "duration_seconds": 27.433333333333334,
+  "width": 2300,
+  "height": 1300,
+  "fps": 30.0,
+  "audio_identical": true,
+  "audio_hash": "SHA256=280bddb604fa7973b3124c23ee8125e3ae44c49dc62268940ba91424dc347c3f",
+  "sha256": "135fa470a98dd1d11be9023c7c9a519c89fdb65fa793cf52ed10dbcc1bb6ca71",
+  "bytes": 69866023,
+  "source_frame_replacement": false,
+  "inpainting": false,
+  "ai_fill": false,
+  "missing_regions": "remain empty/black or retain the already-baked source matte",
+  "geometry": "one independent four-corner homography for every original frame, registered on painting content",
+  "decode_passed": true,
+  "encode_seconds": 87.57282423973083
+}

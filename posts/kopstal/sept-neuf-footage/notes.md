@@ -1,15 +1,13 @@
-# KARŞIDAN-2_1.mp4
+# KARŞIDAN-2_1.mp4 · content lock V2
 
-Perspective-corrected derivative. Original source unchanged on disk.
+Replaces the rejected perimeter-only V1. Painting landmarks, physically framed stage references and completed-painting corners define one projective transform for every source frame. The four input corners for all 1772 frames are recorded in the processing report.
 
-Canvas image is mapped into the same fixed rectangle in every frame: [142, 30, 616, 840] (x, y, width, height). Corner mapping error is numerical transform precision, not a claim of zero physical feature-tracking error.
+Each output frame contains only a geometric resampling of the same original frame. No AI, generative fill, inpainting, clone fill, temporal pixel replacement or still-image substitution. Missing/clipped areas remain empty or retain the defects already baked into the source.
 
-Source duration, 1772 video frames, 900 × 900 output and 30 fps are preserved. Audio stream is copied; decoded audio SHA-256 matches the source. No generative fill, colour grading, speed changes, missing-frame replacement or still-image substitution.
+Native dimensions, 30 fps, all frames, duration and original decoded audio are preserved. H.264 CRF17, 25 Mbit/s ceiling, FastStart.
 
-The final geometry uses direct robust outside-edge fits for each frame, with no accumulated feature pose. A three-frame median filters corner measurements only. Preliminary surface-feature tracking was rejected because the moving hand could be mistaken for camera movement.
+Independent painting-point test: median 0.735 output pixels; 95th percentile of pair medians 0.937 pixels. This is an observed residual, not a zero-motion guarantee. Low-texture/occluded frames use neighboring geometric reference poses; no missing image data is invented.
 
-Source SHA-256: `c79e8ae0cca7a13cb412dfcb097741384753f6b609e19997b81c9cca58f0aa57`
+SHA-256: `c3749307c85b0b6c0cda5664481d698eb9caebc32d92eb7628bcafb3a3943480`
 
-Archive SHA-256: `86bac75e96e390a864f0d45522fff0c763f5664470454a05470c8a152c87d84d`
-
-Validation and per-frame geometry: [processing report](../../../processing/canvas-lock-2026-11-10/REPORT.md).
+[Per-frame corners, checks and method](../../../processing/canvas-content-lock-v2/REPORT.md).

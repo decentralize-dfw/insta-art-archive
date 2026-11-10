@@ -1,0 +1,19 @@
+{
+  "file": "SEPT-CONTENT-LOCK-V2.mp4",
+  "frames": 1772,
+  "duration_seconds": 59.06666666666667,
+  "width": 900,
+  "height": 900,
+  "fps": 30.0,
+  "audio_identical": true,
+  "audio_hash": "SHA256=6f86feb6ae1d57ee1fa5e5e21d4bc1728ac70165c3cb1ab6c9973d7e233bf951",
+  "sha256": "c3749307c85b0b6c0cda5664481d698eb9caebc32d92eb7628bcafb3a3943480",
+  "bytes": 22967385,
+  "source_frame_replacement": false,
+  "inpainting": false,
+  "ai_fill": false,
+  "missing_regions": "remain empty/black or retain the already-baked source matte",
+  "geometry": "one independent four-corner homography for every original frame, registered on painting content",
+  "decode_passed": true,
+  "encode_seconds": 45.05383658409119
+}
