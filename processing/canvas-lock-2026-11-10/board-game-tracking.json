@@ -1,0 +1,25 @@
+{
+  "method": "independent per-frame outer-canvas edge line fits, robust to occlusions; no accumulated pose; three-frame median of geometry only",
+  "frames": 823,
+  "nominal_corners": [
+    [
+      502.0,
+      132.0
+    ],
+    [
+      1796.0,
+      132.0
+    ],
+    [
+      1796.0,
+      1166.0
+    ],
+    [
+      502.0,
+      1166.0
+    ]
+  ],
+  "max_nominal_corner_offset": 20.532947540283203,
+  "max_corner_step": 20.531091690063477,
+  "tracking_seconds": 13.080347061157227
+}
