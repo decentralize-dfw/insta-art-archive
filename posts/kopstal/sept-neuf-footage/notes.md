@@ -11,3 +11,5 @@ Independent painting-point test: median 0.735 output pixels; 95th percentile of 
 SHA-256: `c3749307c85b0b6c0cda5664481d698eb9caebc32d92eb7628bcafb3a3943480`
 
 [Per-frame corners, checks and method](../../../processing/canvas-content-lock-v2/REPORT.md).
+
+**Files (10 Nov 2026):** `source.mp4` is the upload above, untouched. `reel.mp4` is the Instagram version made from it in insta.art with `tools/footage.py` (1080×1920 white frame, no audio, 1 s end card, CRF 17).

@@ -7,3 +7,5 @@ Source SHA-256: `7287e4185a613d5b3ba9482a44bad6d60484c115225c9e36cb014a79f3e2a2b
 Archive SHA-256: `7287e4185a613d5b3ba9482a44bad6d60484c115225c9e36cb014a79f3e2a2b5`
 
 Validation and per-frame geometry: [processing report](../../../processing/canvas-lock-2026-11-10/REPORT.md).
+
+**Files (10 Nov 2026):** `source.mp4` is the upload above, untouched. `reel.mp4` is the Instagram version made from it in insta.art with `tools/footage.py` (1080×1920 white frame, no audio, 1 s end card, CRF 17).
