@@ -14,3 +14,5 @@ Uploaded byte-for-byte from `DETAILS-BOOK-STACKED-CONTINUOUS-1.4X-V2.mp4`, with 
 File size: 26,808,712 bytes.
 
 SHA-256: `c8e7da3d46013dd1f3d1e7fb34bfa0b7c8b3b2d3cd54158d4f437bf05bd9ca16`.
+
+**Files (11 Nov 2026):** `source.mp4` is the upload above, untouched. `reel.mp4` is the Instagram version: 2 s fast opening with the bar, this video unchanged (concat), 1 s end card, the zen bell.
