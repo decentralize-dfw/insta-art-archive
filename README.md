@@ -12,3 +12,8 @@ https://decentralize-dfw.github.io/insta.art/. Same `posts/...` paths as the
 - [sept-neuf](posts/kopstal/sept-neuf-footage/reel.mp4) (painting-content correction V2)
 
 [Processing report, checks and per-frame corner coordinates](processing/canvas-content-lock-v2/REPORT.md).
+
+## Details book flip-through
+
+- [Synchronized stacked book video](posts/portfolio/details-book-stacked/reel.mp4): final vertical version, plain white opening sheet for the lower book, continuous page order, 1.4× speed.
+- [Video specifications and source notes](posts/portfolio/details-book-stacked/notes.md).
