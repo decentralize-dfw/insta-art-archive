@@ -17,3 +17,8 @@ https://decentralize-dfw.github.io/insta.art/. Same `posts/...` paths as the
 
 - [Synchronized stacked book video](posts/portfolio/details-book-stacked/reel.mp4): final vertical version, plain white opening sheet for the lower book, continuous page order, 1.4× speed.
 - [Video specifications and source notes](posts/portfolio/details-book-stacked/notes.md).
+
+## Edited process reel collections
+
+- [Sept Neuf](posts/kopstal/sept-neuf-edited-process-reels/README.md) · Kopstal · 21 videos
+- [Cute but Unemployed Cartoon Figure](posts/milan/cute-but-unemployed-cartoon-figure-edited-process-reels/README.md) · Milan · 11 videos
