@@ -1,0 +1,28 @@
+{
+  "type": "reel",
+  "work": "virgil-on-virtual-cage-final-final-finalv9",
+  "version": "approved-V4-studio-single-hit",
+  "publication_date": "2026-11-23",
+  "publication_timezone": "Europe/Paris",
+  "status": "ready",
+  "filename": "reel.mp4",
+  "duration_seconds": 15.716667,
+  "width": 1080,
+  "height": 1920,
+  "fps": 60,
+  "video_codec": "h264",
+  "audio_codec": "aac",
+  "music_bpm": 128,
+  "music": "Axwell — Barricade",
+  "music_source_url": "https://soundcloud.com/axwell/barricade",
+  "music_start_seconds": 196.75403628117914,
+  "audio_embedded": true,
+  "generated_ai_content": false,
+  "studio_source": "IMG_6830.png",
+  "cover_layout": "tools/covers.py: reel_cover, 10% inset, 60% fit, white, no text",
+  "cover": {
+    "src": "details:masters/virgil-on-virtual-cage-RESOLUTION.png"
+  },
+  "master_sha256": "3810875e2efb6a558822ad5e378b53d18705be6999a6862cd1479eb8fe2adb46",
+  "file_size_bytes": 30757445
+}
