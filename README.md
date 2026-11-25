@@ -22,3 +22,8 @@ https://decentralize-dfw.github.io/insta.art/. Same `posts/...` paths as the
 
 - [Sept Neuf](posts/kopstal/sept-neuf-edited-process-reels/README.md) · Kopstal · 21 videos
 - [Cute but Unemployed Cartoon Figure](posts/milan/cute-but-unemployed-cartoon-figure-edited-process-reels/README.md) · Milan · 11 videos
+
+## 7 fam board game · Kopstal reels
+
+- [Film Edit](posts/kopstal/7-fam-board-game-film-edit/reel.mp4) · [Cover](posts/kopstal/7-fam-board-game-film-edit/cover.jpg)
+- [Painting Cut](posts/kopstal/7-fam-board-game-painting-cut/reel.mp4) · [Cover](posts/kopstal/7-fam-board-game-painting-cut/cover.jpg)
